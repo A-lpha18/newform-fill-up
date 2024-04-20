@@ -1,0 +1,67 @@
+html{
+    background: url(./beautiful-nature-mountain-scenery-with-flowers-free-photo.webp);
+    background-size: 200%;
+    background-position: -1200px;
+}
+
+#a{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 500px;
+    margin-left: 600px;
+    
+}
+#ab{
+    background-color: violet;
+    color: white;
+}
+
+#b{
+    
+    height: 90px;
+    width: 500px;
+    margin-left: 600px;
+    background-color: transparent;
+    
+}
+#c{
+    
+    background-color: transparent;
+    height: 90px;
+    width: 500px;
+    margin-left: 600px;
+}
+#d{
+    background-color: transparent;
+    height: 90px;
+    width: 500px;
+    margin-left: 600px;
+}
+#e{
+    background-color: transparent;
+    height: 90px;
+    width: 500px;
+    margin-left: 600px;
+}
+#f{
+    background-color: transparent;
+    height: 90px;
+    width: 500px;
+    margin-left: 600px;
+}
+#g{
+    background-color: transparent;
+    height: 90px;
+    width: 500px;
+    margin-left: 600px;
+}
+
+#bbc{
+    background-color: violet;
+    color: white;
+    margin-left: 600px;
+}
+
+body{
+    font-family: Helvetica, Arial, sans-serif;;
+}
